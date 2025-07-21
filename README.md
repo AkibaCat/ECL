@@ -1,6 +1,5 @@
 # [ACL] AutumnMinecraftLauncher (秋启动器)
-> 启动器当前简称为ACL，后续可能会更改  
-> 启动器图标还在思考中(@w@)
+> 项目临时暂停
 
 一款使用Python编写的Minecraft&Java启动器  
 默认的UI界面的制作参考了其“忘却的旋律”启动器，以此纪念该启动器
